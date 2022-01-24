@@ -1,0 +1,2 @@
+This project looks at stocks to determine the optimal risk portfolio.
+The code is run in Python using a Jupityr notebook.
