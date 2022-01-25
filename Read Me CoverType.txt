@@ -1,0 +1,2 @@
+This is a neural network classifier used to look at tree cover type to determine the type of tree.
+Jupyter notebook was used running python.
