@@ -1,0 +1,2 @@
+This is a linear regression looking at insuarnce data.
+This project uses a Jupyter notebook to run the code.
