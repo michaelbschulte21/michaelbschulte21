@@ -1,0 +1,2 @@
+This is a clustering program that is on wine data like chemical composition. It creates 3 clusters.
+It runs on a Jupyter notebook.
