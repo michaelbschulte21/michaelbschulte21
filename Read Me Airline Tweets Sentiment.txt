@@ -1,0 +1,2 @@
+This project analyzes the sentiment of tweets using nltk and logistic regression. The model has 80% accuracy.
+This project runs on a Jupyter Notebook.
