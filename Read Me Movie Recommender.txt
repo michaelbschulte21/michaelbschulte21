@@ -1,0 +1,2 @@
+Used surprise singular value decomposition to create a recommender system for movies using data from Netflix. There were five folds. The RMSE had a mean value of 1.0159 with standard deviation of 0.0014 and a MAE mean of 0.8075 with a standard deviation of 0.0008.
+This is a Jupyter Notebook.
