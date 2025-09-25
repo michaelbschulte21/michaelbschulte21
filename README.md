@@ -3,7 +3,7 @@
 - 🌱 I’m trying to model time series using symbolic regression
 - 📫 How to reach me michaelbschulte21@gmail.com
 - I'm a graduate of the SMU Masters of Science in Data Science program
-- Currently, work in healthcare as a software engineer
+- Currently, work in healthcare as a senior software engineer
 
 <!---
 michaelbschulte21/michaelbschulte21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
