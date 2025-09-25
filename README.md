@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelbschulte21
-- 👀 I’m interested in Python, machine learning, and neural networks
-- 🌱 I’m currently learning tensorflow
+- 👀 I’m interested in Python, R, machine learning, neural networks, & time series
+- 🌱 I’m trying to model time series using symbolic regression
 - 📫 How to reach me michaelbschulte21@gmail.com
 
 <!---
